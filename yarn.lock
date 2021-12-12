@@ -2295,6 +2295,11 @@ supports-color@^8.0.0:
   dependencies:
     has-flag "^4.0.0"
 
+tailwind-colors@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/tailwind-colors/-/tailwind-colors-1.1.0.tgz#133e047f80196bbfc3d66e976cddb67d2f8564f8"
+  integrity sha512-U3637S7IbJu72Qzq2oCzVTvmXkuD6fgX5iBgzfBTZq1OTcLIbe3tGKCPfA6A/ugeXsnjhGJj4ZExjU217WMzpQ==
+
 tailwindcss@^2.2.4:
   version "2.2.19"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-2.2.19.tgz#540e464832cd462bb9649c1484b0a38315c2653c"
