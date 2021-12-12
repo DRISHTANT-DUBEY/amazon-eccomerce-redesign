@@ -1,8 +1,13 @@
-import Head from 'next/head'
+
+import Container from '../components/fixed/container'
 import Hero from '../components/home/hero'
 
 export default function Home() {
   return (
-      <Hero />
-  )
+    <div>
+      <Container>
+        <Hero />
+      </Container>
+    </div>
+  );
 }
